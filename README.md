@@ -9,7 +9,10 @@
 **Modernizr**: http://modernizr.com/
 
 **jQuery validation**: http://bassistance.de/jquery-plugins/jquery-plugin-validation/
+
 **Parsley**: http://parsleyjs.org
+
+**CC Validation**: http://jquerycreditcardvalidator.com/
 
 # Guidelines
 - Fork or clone the GIT rep
@@ -18,6 +21,7 @@
 	- Modernizr
 	- jQuery
 	- jQuery Validation (or any JS validation plugin)
+	- CC Validation plugin
 - Make sure you're not loading in resources you don't need
 - Use HTML 5 validation that falls back to JS validation
 - Make sure the form is naturally keyboard accessible
